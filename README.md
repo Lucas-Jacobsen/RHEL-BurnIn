@@ -10,7 +10,7 @@ This script is used to perform a burnin test on a Linux-based system. It uses **
 
 
 * Make the script executable using:
-<br> ```chmod +x script.sh```
+<br> ```chmod +x Burnin.sh```
 
 * Run the script using: 
 <br> ```./Burnin.sh```
