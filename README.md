@@ -6,7 +6,7 @@ This script is used to perform a burnin test on a Linux-based system. It uses **
 * Clone [this](https://github.com/Lucas-Jacobsen/RHEL-BurnIn) repository using <br> ```git clone https://github.com/Lucas-Jacobsen/RHEL-BurnIn```
 
 * Navigate to the directory where the script was downloaded using 
-<br> ```cd /Path_to_download```
+<br> ```cd /Path_to_directory```
 
 
 * Make the script executable using:
